@@ -5,8 +5,8 @@ main:
    - title: "Telegram"
      url: https://t.me/archiwumewron/
    - title: "O mnie"
-     url: /omnie
+     url: https://ewronarchive.github.io/archive/about/
    - title: "Donate"
-     url: /donate
+     url: https://ewronarchive.github.io/archive/donate/
   # - title: "Sitemap"
   #   url: /sitemap/
