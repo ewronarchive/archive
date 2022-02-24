@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Przejdź do dysku z VODami"
+   - title: "Przejdź-do-dysku-z-VODami"
     url: https://disk.yandex.com/d/fGLQehAD8EURuA
    - title: "Telegram"
      url: https://t.me/archiwumewron/
-   - title: "O mnie"
+   - title: "O-mnie"
      url: /omnie
    - title: "Donate"
      url: /donate
