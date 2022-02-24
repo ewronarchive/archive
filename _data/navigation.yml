@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Przejdź do dysku z VODami"
+    url: https://disk.yandex.com/d/fGLQehAD8EURuA
+   - title: "Telegram"
+     url: https://t.me/archiwumewron/
+   - title: "O mnie"
+     url: /o_mnie
+   - title: "Donate"
+     url: /donate
   # - title: "Sitemap"
   #   url: /sitemap/
